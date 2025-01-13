@@ -4,7 +4,7 @@
   "private": true,
   "twitter": "https://x.com/wepumpinc",
   "discord": "https://discord.gg",
-  "github": "https://github.com/wepumpai/wepump",
+  "github": "https://github.com/wepumpai/wepumpai",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
