@@ -1,8 +1,6 @@
 <a id="readme-top"></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/wepumpinc.svg?style=social&label=Follow%20%40wepumpinc)](https://twitter.com/wepumpinc)
 
-<a target="_blank" href="https://discord.gg"><img src="https://dcbadge.limes.pink/api/server/" alt="" /></a>
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
