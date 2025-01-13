@@ -15,14 +15,14 @@
     <br />
     Find your yin & yang.
     <br />
-    <a href="https://docs.wepumpai.com"><strong>See the WePump AI Docs »</strong></a>
+    <a href="https://docs.wepumpai.help"><strong>See the WePump AI Docs »</strong></a>
     <br />
     <br />
-    <a href="https://wepumpai.com">Website</a>
+    <a href="https://wepumpai.help">Website</a>
     ·
     <a href="https://x.com/wepumpinc">Twitter</a>
     ·
-    <a href="https://discord.g/wepumpai">Discord</a>
+    <a href="https://discord.gg/C66PqXT2">Discord</a>
   </p>
 </div>
 
